@@ -2,7 +2,7 @@
 A simple script for changing background of Windows Terminal in wsl.
 ## Install
 Make sure you have these two packages installed
-> [fzf](https://github.com/junegunn/fzf#using-linux-package-managers)
+> [fzf](https://github.com/junegunn/fzf#using-linux-package-managers)  
 > [wslu](https://wslutiliti.es/wslu/install.html)
 
 ```sh
