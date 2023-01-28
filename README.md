@@ -1,6 +1,9 @@
-# WTBG
-A simple script for changing background of Windows Terminal in wsl.
+# Terminal Background Changer
+A simple script for changing background of of terminal in commandline.
+## Current Support
+* wsl in Windows Terminal
 ## Install
+### wsl in Windows Terminal
 Make sure you have these two packages installed
 > [fzf](https://github.com/junegunn/fzf#using-linux-package-managers)  
 > [wslu](https://wslutiliti.es/wslu/install.html)
